@@ -1,0 +1,18 @@
+<view class="a">
+<view style="display:flex" class="d">您已经获胜了<view catchtap="bog5" class="z">{{total}}</view>
+ 次</view>
+
+<view style="display:flex">
+<image class="b" src="{{img}}" />
+<view class="o">{{info}}</view>
+<image class="c" src="{{img1}}" />
+</view>
+
+<view class="e">
+<view class="p">出拳吧，少年！！！</view>
+<image catchtap="bog1" class="f" src="../../image/jiandao.png" />
+<image catchtap="bog2" class="g" src="../../image/shitou.png" />
+<image catchtap="bog3" class="h" src="../../image/bu.png" />
+<view><button catchtap="bog4" class="i">再来一次</button></view>
+</view>
+</view>
